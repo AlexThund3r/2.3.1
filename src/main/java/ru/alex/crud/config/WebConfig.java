@@ -1,4 +1,4 @@
-package ru.alex.crud;
+package ru.alex.crud.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;
